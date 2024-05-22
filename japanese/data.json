@@ -187,8 +187,8 @@
   },
   {
     "id": 32,
-    "word": ["勉強します", "べんきょうします", "benkyōshimasu", "to study"],
-    "answer": ["勉強して", "べんきょうして", "benkyōshite"],
+    "word": ["勉強します", "べんきょうします", "benkyoushimasu", "to study"],
+    "answer": ["勉強して", "べんきょうして", "benkyoushite"],
     "explanation": "irregular verb"
   },
   {
