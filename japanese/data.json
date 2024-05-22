@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "word": ["飲みます", "のみます", "nomimasu", "to drink"],
+    "answer": ["飲んで", "のんで", "nonde"],
+    "explanation": "godan verb"
+  },
+  {
+    "id": 2,
+    "word": ["書きます", "かきます", "kakimasu", "to write"],
+    "answer": ["書いて", "かいて", "kaite"],
+    "explanation": "godan verb"
+  },
+  {
+    "id": 3,
+    "word": ["聞きます", "ききます", "kikimasu", "to listen"],
+    "answer": ["聞いて", "きいて", "kiite"],
+    "explanation": "godan verb"
+  },
+  {
+    "id": 4,
+    "word": ["行きます", "いきます", "ikimasu", "to go"],
+    "answer": ["行って", "いって", "itte"],
+    "explanation": "godan verb"
+  },
+  {
+    "id": 5,
+    "word": ["急ぎます", "いそぎます", "isogimasu", "to hurry"],
+    "answer": ["急いで", "いそいで", "isoide"],
+    "explanation": "godan verb"
+  },
+  {
+    "id": 6,
+    "word": ["泳ぎます", "およぎます", "oyogimasu", "to swim"],
+    "answer": ["泳いで", "およいで", "oyoide"],
+    "explanation": "godan verb"
+  },
+  {
+    "id": 7,
+    "word": ["読みます", "よみます", "yomimasu", "to read"],
+    "answer": ["読んで", "よんで", "yonde"],
+    "explanation": "godan verb"
+  },
+  {
+    "id": 8,
+    "word": ["休みます", "やすみます", "yasumimasu", "to rest"],
+    "answer": ["休んで", "やすんで", "yasunde"],
+    "explanation": "godan verb"
+  },
+  {
+    "id": 9,
+    "word": ["呼びます", "よびます", "yobimasu", "to call"],
+    "answer": ["呼んで", "よんで", "yonde"],
+    "explanation": "godan verb"
+  },
+  {
+    "id": 10,
+    "word": ["遊びます", "あそびます", "asobimasu", "to play"],
+    "answer": ["遊んで", "あそんで", "asonde"],
+    "explanation": "godan verb"
+  },
+  {
+    "id": 11,
+    "word": ["帰ります", "かえります", "kaerimasu", "to return"],
+    "answer": ["帰って", "かえって", "kaette"],
+    "explanation": "godan verb"
+  },
+  {
+    "id": 12,
+    "word": ["取ります", "とります", "torimasu", "to take"],
+    "answer": ["取って", "とって", "totte"],
+    "explanation": "godan verb"
+  },
+  {
+    "id": 13,
+    "word": ["曲がります", "まがります", "magarimasu", "to turn"],
+    "answer": ["曲がって", "まがって", "magatte"],
+    "explanation": "godan verb"
+  },
+  {
+    "id": 14,
+    "word": ["買います", "かいます", "kaimasu", "to buy"],
+    "answer": ["買って", "かって", "katte"],
+    "explanation": "godan verb"
+  },
+  {
+    "id": 15,
+    "word": ["会います", "あいます", "aimasu", "to meet"],
+    "answer": ["会って", "あって", "atte"],
+    "explanation": "godan verb"
+  },
+  {
+    "id": 16,
+    "word": ["習います", "ならいます", "naraimasu", "to learn"],
+    "answer": ["習って", "ならって", "naratte"],
+    "explanation": "godan verb"
+  },
+  {
+    "id": 17,
+    "word": ["もちます", "持ちます", "mochimasu", "to hold"],
+    "answer": ["持って", "もって", "motte"],
+    "explanation": "godan verb"
+  },
+  {
+    "id": 18,
+    "word": ["話します", "はなします", "hanashimasu", "to talk"],
+    "answer": ["話して", "はなして", "hanashite"],
+    "explanation": "godan verb"
+  },
+  {
+    "id": 19,
+    "word": ["消します", "けします", "keshimasu", "to erase"],
+    "answer": ["消して", "けして", "keshite"],
+    "explanation": "godan verb"
+  },
+  {
+    "id": 20,
+    "word": ["食べます", "たべます", "tabemasu", "to eat"],
+    "answer": ["食べて", "たべて", "tabete"],
+    "explanation": "ichidan verb"
+  },
+  {
+    "id": 21,
+    "word": ["寝ます", "ねます", "nemasu", "to sleep"],
+    "answer": ["寝て", "ねて", "nete"],
+    "explanation": "ichidan verb"
+  },
+  {
+    "id": 22,
+    "word": ["教えます", "おしえます", "oshieimasu", "to teach"],
+    "answer": ["教えて", "おしえて", "oshiite"],
+    "explanation": "ichidan verb"
+  },
+  {
+    "id": 23,
+    "word": ["見せます", "みせます", "misemasu", "to show"],
+    "answer": ["見せて", "みせて", "misete"],
+    "explanation": "ichidan verb"
+  },
+  {
+    "id": 24,
+    "word": ["開けます", "あけます", "akemasu", "to open"],
+    "answer": ["開けて", "あけて", "akete"],
+    "explanation": "ichidan verb"
+  },
+  {
+    "id": 25,
+    "word": ["閉めます", "しめます", "shimemasu", "to close"],
+    "answer": ["閉めて", "しめて", "shimete"],
+    "explanation": "ichidan verb"
+  },
+  {
+    "id": 26,
+    "word": ["つけます", "つけます", "tsukemasu", "to turn on"],
+    "answer": ["つけて", "つけて", "tsukete"],
+    "explanation": "ichidan verb"
+  },
+  {
+    "id": 27,
+    "word": ["見ます", "みます", "mimasu", "to see"],
+    "answer": ["見て", "みて", "mite"],
+    "explanation": "ichidan verb"
+  },
+  {
+    "id": 28,
+    "word": ["います", "います", "imasu", "to exist"],
+    "answer": ["いて", "いて", "ite"],
+    "explanation": "ichidan verb"
+  },
+  {
+    "id": 29,
+    "word": ["起きます", "おきます", "okimasu", "to wake up"],
+    "answer": ["起きて", "おきて", "okite"],
+    "explanation": "ichidan verb"
+  },
+  {
+    "id": 30,
+    "word": ["借ります", "かります", "karimasu", "to borrow"],
+    "answer": ["借りて", "かりて", "karite"],
+    "explanation": "ichidan verb"
+  },
+  {
+    "id": 31,
+    "word": ["します", "します", "shimasu", "to do"],
+    "answer": ["して", "して", "shite"],
+    "explanation": "irregular verb"
+  },
+  {
+    "id": 32,
+    "word": ["勉強します", "べんきょうします", "benkyōshimasu", "to study"],
+    "answer": ["勉強して", "べんきょうして", "benkyōshite"],
+    "explanation": "irregular verb"
+  },
+  {
+    "id": 33,
+    "word": ["買い物します", "かいものします", "kaimonoshimasu", "to go shopping"],
+    "answer": ["買い物して", "かいものして", "kaimonoshite"],
+    "explanation": "irregular verb"
+  },
+  {
+    "id": 34,
+    "word": ["食事します", "しょくじします", "shokujishimasu", "to have a meal"],
+    "answer": ["食事して", "しょくじして", "shokujishite"],
+    "explanation": "irregular verb"
+  },
+  {
+    "id": 35,
+    "word": ["来ます", "きます", "kimasu", "to come"],
+    "answer": ["来て", "きて", "kite"],
+    "explanation": "irregular verb"
+  }
+]
